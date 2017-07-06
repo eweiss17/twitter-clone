@@ -1,0 +1,19 @@
+{
+  "name": "twitter_clone_project",
+  "version": "1.0.0",
+  "description": "Site replicating the functionality of twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eweiss17/twitter-clone"
+  },
+  "author": "Eric Weiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eweiss17/twitter-clone/issues"
+  },
+  "homepage": "https://github.com/eweiss17/twitter-clone#readme"
+}
