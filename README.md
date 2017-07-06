@@ -5,6 +5,6 @@ Using Materalize framework
 
 Current npm modules - Materialize, JQuery
 
-I will be committing the node_modules, as they are going to be required in previewing the site. 
+I will be committing the node_modules, as they are going to be required in previewing the site. [ilyascommand is testing github...]
 
 https://htmlpreview.github.io/?https://github.com/eweiss17/twitter-clone/blob/master/index.html
