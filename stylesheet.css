@@ -3,6 +3,7 @@ img {
 }
 .nav-title {
     margin-left: 3%;
+    font-family: 'Trade Winds', cursive;
 }
 .container {
     margin-top: 2%
@@ -10,6 +11,15 @@ img {
 .nav-extended {
     background-color: navy;
 }
+nav {
+    background-color: navy;
+}
 .footer-copyright {
     margin-bottom: 2%;
+}
+.icon {
+    padding: 2.5% 0 0 2.5%;
+}
+.tabs .tab {
+    width: 12.5%;
 }
